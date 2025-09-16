@@ -22,5 +22,13 @@ Frontend developer, possessing knowledge in adaptive layout using semantic tags 
 -  Git
 
 
+## **Experience**
+- Development of adaptive web interfaces based on designs from Figma and Zeplin, using Vanilla JS and Vue.
+- Creation of my own UI component library based on PrimeVue.
+- Working with HTML and CSS using SCSS.
+- Layout of components for a Desktop application usingJetpack Compose and Compose Multiplatform
+## **Education**
+-   **University:**  Kazan State Agrarian University, Public and municipal administration
+-   **Courses:** Geek Brains, Fullstack JavaScript
 ## **English**
 [C2](https://cert.efset.org/M3fCSK)
